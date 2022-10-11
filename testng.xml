@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="4" name="chromeTest">
+  <parameter name="browserName1" value="chrome"></parameter>
+    <classes>
+      <class name="com.saucedemo.testclass.TC01_verifyloinfunctionality"/> 
+      <class name="com.saucedemo.testclass.TC02_verifylogoutfunctionality"/>
+      <class name="com.saucedemo.testclass.TC03_verifybagproductaddfuctionality"/>
+      <class name="com.saucedemo.testclass.TC04_verifymultipleelement"/>
+      <class name="com.saucedemo.testclass.TC01_verifyloinfunctionality"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

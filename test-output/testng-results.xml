@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-11T16:16:16 IST" name="Suite" finished-at="2022-10-11T16:16:30 IST" duration-ms="13186">
+    <groups>
+    </groups>
+    <test started-at="2022-10-11T16:16:16 IST" name="chromeTest" finished-at="2022-10-11T16:16:30 IST" duration-ms="13186">
+      <class name="com.saucedemo.testclass.TC02_verifylogoutfunctionality">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.saucedemo.testclass.TC02_verifylogoutfunctionality@10e31a9a]" started-at="2022-10-11T16:16:21 IST" name="setUp" finished-at="2022-10-11T16:16:23 IST" duration-ms="2578" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifylogoutfunctionality()[pri:0, instance:com.saucedemo.testclass.TC02_verifylogoutfunctionality@10e31a9a]" started-at="2022-10-11T16:16:23 IST" name="verifylogoutfunctionality" finished-at="2022-10-11T16:16:24 IST" duration-ms="477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogoutfunctionality -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.saucedemo.testclass.TC02_verifylogoutfunctionality@10e31a9a]" started-at="2022-10-11T16:16:24 IST" name="teardown" finished-at="2022-10-11T16:16:24 IST" duration-ms="100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.saucedemo.testclass.TC02_verifylogoutfunctionality -->
+      <class name="com.saucedemo.testclass.TC01_verifyloinfunctionality">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.saucedemo.testclass.TC01_verifyloinfunctionality@4fb61f4a]" started-at="2022-10-11T16:16:16 IST" name="setUp" finished-at="2022-10-11T16:16:21 IST" duration-ms="4069" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyloginfunctionality()[pri:0, instance:com.saucedemo.testclass.TC01_verifyloinfunctionality@4fb61f4a]" started-at="2022-10-11T16:16:21 IST" name="verifyloginfunctionality" finished-at="2022-10-11T16:16:21 IST" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyloginfunctionality -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.saucedemo.testclass.TC01_verifyloinfunctionality@4fb61f4a]" started-at="2022-10-11T16:16:21 IST" name="teardown" finished-at="2022-10-11T16:16:21 IST" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.saucedemo.testclass.TC01_verifyloinfunctionality -->
+      <class name="com.saucedemo.testclass.TC04_verifymultipleelement">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.saucedemo.testclass.TC04_verifymultipleelement@158d2680]" started-at="2022-10-11T16:16:27 IST" name="setUp" finished-at="2022-10-11T16:16:29 IST" duration-ms="2203" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifymultipleelement()[pri:0, instance:com.saucedemo.testclass.TC04_verifymultipleelement@158d2680]" started-at="2022-10-11T16:16:29 IST" name="verifymultipleelement" finished-at="2022-10-11T16:16:30 IST" duration-ms="652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifymultipleelement -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.saucedemo.testclass.TC04_verifymultipleelement@158d2680]" started-at="2022-10-11T16:16:30 IST" name="teardown" finished-at="2022-10-11T16:16:30 IST" duration-ms="80" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.saucedemo.testclass.TC04_verifymultipleelement -->
+      <class name="com.saucedemo.testclass.TC03_verifybagproductaddfuctionality">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.saucedemo.testclass.TC03_verifybagproductaddfuctionality@131774fe]" started-at="2022-10-11T16:16:24 IST" name="setUp" finished-at="2022-10-11T16:16:26 IST" duration-ms="2154" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifybagproductaddfuctionality()[pri:0, instance:com.saucedemo.testclass.TC03_verifybagproductaddfuctionality@131774fe]" started-at="2022-10-11T16:16:26 IST" name="verifybagproductaddfuctionality" finished-at="2022-10-11T16:16:27 IST" duration-ms="459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifybagproductaddfuctionality -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.saucedemo.testclass.TC03_verifybagproductaddfuctionality@131774fe]" started-at="2022-10-11T16:16:27 IST" name="teardown" finished-at="2022-10-11T16:16:27 IST" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.saucedemo.testclass.TC03_verifybagproductaddfuctionality -->
+    </test> <!-- chromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
